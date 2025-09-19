@@ -1,13 +1,4 @@
 
-"""
-This simple_chatbot.py chatbot is same just like Api_chatgpt_bot.py 
-except that This is created using simple methods without using class
-
-While APi_chatgpt_bot.py is created using simple using class
-
-"""
-
-
 import os
 import json
 from datetime import datetime
@@ -175,4 +166,5 @@ def start_chat():
 
 # Start the chat
 if __name__ == "__main__":
+
     start_chat()
