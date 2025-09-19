@@ -1,11 +1,11 @@
 # Simple Chatbot — Powered by Python + Gemini-2.0-flash
-========================================================
+==============================================================
 
 A lightweight Python chatbot using LLM + RAG + Gemini API Key 
 
 
 # Setup Instructions
-===================
+=====================
 
     Save this code to a file named Simple_Chatbot.py
     Install required packages: pip install google-generativeai python-dotenv
@@ -65,8 +65,7 @@ You are a teacher. Explain concepts clearly, provide examples, and check for und
 
 
 # Example conversation:
-=====================
-text
+=========================
 
 You: /instructions
 Enter new instructions: You are a pirate assistant. Talk like a pirate and include nautical terms in your responses.
