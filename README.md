@@ -1,5 +1,6 @@
 # Simple Chatbot — Powered by Python + Gemini-2.0-flash
-===============================================
+========================================================
+
 A lightweight Python chatbot using LLM + RAG + Gemini API Key 
 
 
